@@ -2,8 +2,12 @@
 IP-CIDR,154.37.217.17/32,no-resolve
 IP-CIDR,104.160.19.34/32,no-resolve
 IP-CIDR,154.17.4.121/32,no-resolve
+IP-CIDR,172.84.93.68/32,no-resolve
 IP-CIDR6,2a02:7080::3451:cbf4:82e0:1/64,no-resolve
 IP-CIDR6,2605:52c0:2:1c20:6461:6fff:fea3:8461/64,no-resolve
+IP-CIDR6,2a12:f8c1:50::25b/64,no-resolve
+IP-CIDR6,2a12:f8c1:50::237/64,no-resolve
+IP-CIDR6,2a12:f8c1:50::230/64,no-resolve
 
 # 自有域名
 DOMAIN-SUFFIX,zihoo.me
