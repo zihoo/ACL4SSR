@@ -13,3 +13,6 @@ IP-CIDR6,2a12:f8c1:50::230/64,no-resolve
 DOMAIN-SUFFIX,zihoo.me
 DOMAIN-SUFFIX,r0zx.cn
 DOMAIN-SUFFIX,zxmice.cn
+
+# LBank域名
+DOMAIN-SUFFIX,lbk.world
