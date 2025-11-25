@@ -1,0 +1,57 @@
+# 来源：https://www.feishu.cn/hc/zh-CN/articles/360044683233-配置企业内网防火墙域名和-ip-白名单
+# 飞书客户端域名白名单配置列表
+DOMAIN-SUFFIX,feishu.net
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,larkoffice.com
+DOMAIN-SUFFIX,feishucdn.com
+DOMAIN-SUFFIX,zjurl.cn
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytedance.net
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,byted-static.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,feishu-3rd-party-services.com
+DOMAIN-SUFFIX,bytehwm.com
+DOMAIN-SUFFIX,ttwebview.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,kundou.cn
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,byteeffecttos.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytedanceapi.com
+DOMAIN-SUFFIX,volcvideo.com
+DOMAIN-SUFFIX,feishuimg.com
+DOMAIN-SUFFIX,feishuapp.cn
+DOMAIN-SUFFIX,getfeishu.cn
+DOMAIN-SUFFIX,feishupkg.com
+DOMAIN-SUFFIX,feelgood.cn
+DOMAIN-SUFFIX,baseopendev.com
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,ibytedapm.com
+
+# 信令服务
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytevcloud.com
+
+# 客户端域名白名单配置列表
+DOMAIN-SUFFIX,effect.snssdk.com
+DOMAIN-SUFFIX,lf3-effectcdn-tos.byteeffecttos.com
+DOMAIN-SUFFIX,lf6-effectcdn-tos.byteeffecttos.com
+DOMAIN-SUFFIX,lf9-effectcdn-tos.byteeffecttos.com
+
+
+# 来源：https://www.larksuite.com/hc/en-US/articles/360044784554-configure-organization-firewall-domain-and-ip-allowlist
+# Domains that need to be on the allowlist for the Lark app
+DOMAIN-SUFFIX,larksuite.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,larksuitecdn.com
+DOMAIN-SUFFIX,larksuitepkg.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,volcvideos.com
+DOMAIN-SUFFIX,bytevcloud.com
+DOMAIN-SUFFIX,baseopendevx.com
