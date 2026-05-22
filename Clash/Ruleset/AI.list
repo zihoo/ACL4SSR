@@ -1,5 +1,9 @@
 # 内容：内容：AI平台-国外
 # 数量：43条
+# KEYWORD规则优先，确保匹配包含关键词的所有域名
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,openai
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,api.githubcopilot.com
@@ -40,6 +44,3 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,sora.com
-DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,claude
-DOMAIN-KEYWORD,openai
