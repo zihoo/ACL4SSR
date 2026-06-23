@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,api.githubcopilot.com
+DOMAIN,api.business.githubcopilot.com
 DOMAIN,api.groq.com
 DOMAIN,api.together.xyz
 DOMAIN,bard.google.com
