@@ -11,3 +11,8 @@ DOMAIN-SUFFIX,zxmice.cn
 # MSX域名
 DOMAIN-SUFFIX,msx.sh
 DOMAIN-SUFFIX,msx.mx
+
+# MSX Netbird IP
+IP-CIDR,13.214.92.139/32,no-resolve
+IP-CIDR,54.254.208.14/32,no-resolve
+IP-CIDR,46.137.199.7/32,no-resolve
