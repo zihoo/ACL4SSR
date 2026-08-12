@@ -2,7 +2,7 @@
 # 数量：49条
 # KEYWORD规则优先，确保匹配包含关键词的所有域名
 DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,bedrock-runtime
+DOMAIN-KEYWORD,bedrock
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
 DOMAIN,ai.google.dev
