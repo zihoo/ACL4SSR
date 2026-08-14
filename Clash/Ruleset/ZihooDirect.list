@@ -7,16 +7,3 @@ IP-CIDR6,2605:52c0:2:1c20:6461:6fff:fea3:8461/64,no-resolve
 DOMAIN-SUFFIX,zihoo.me
 DOMAIN-SUFFIX,r0zx.cn
 DOMAIN-SUFFIX,zxmice.cn
-
-# MSX域名
-DOMAIN-SUFFIX,msx.sh
-DOMAIN-SUFFIX,msx.mx
-
-# MSX Netbird IP
-IP-CIDR,13.214.92.139/32,no-resolve
-IP-CIDR,54.254.208.14/32,no-resolve
-IP-CIDR,46.137.199.7/32,no-resolve
-IP-CIDR,43.213.160.149/32,no-resolve
-IP-CIDR,43.213.173.197/32,no-resolve
-IP-CIDR,18.162.100.148/32,no-resolve
-IP-CIDR,18.167.235.160/32,no-resolve
