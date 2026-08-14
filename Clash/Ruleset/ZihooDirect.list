@@ -1,7 +1,9 @@
 # VPS服务器
 IP-CIDR,154.37.217.17/32,no-resolve
 IP-CIDR,179.255.109.155/32,no-resolve
+IP-CIDR,47.238.196.63/32,no-resolve
 IP-CIDR6,2605:52c0:2:1c20:6461:6fff:fea3:8461/64,no-resolve
+IP-CIDR6,240b:4001:2d4:e600::/64,no-resolve
 
 # 自有域名
 DOMAIN-SUFFIX,zihoo.me
