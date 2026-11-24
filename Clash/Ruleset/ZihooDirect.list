@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,zxmice.cn
 
 # 告警通知（Bark，翻墙全挂时也要能发出去）
 DOMAIN-SUFFIX,day.app
+DOMAIN-SUFFIX,hc-ping.com
